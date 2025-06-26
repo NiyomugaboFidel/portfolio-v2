@@ -157,14 +157,14 @@ export const allBlogs: Blog[] = [
       url: '/images/img/carrental.png'
     }
   },
-  {
-    title: 'Green Realtor revamped website',
-    excerpt: 'Green Realtor\'s revamped website helps clients know more about the services and offerings of Green Realtor. It focuses on providing a user-friendly interface and better property showcasing.',
-    coverImage: '/images/img/greetor.png',
-    date: '2023-10-05T00:00:00.000Z',  // Q4 of 2023
-    link: 'https://green-realtors.strettch.com/',
-    ogImage: {
-      url: '/images/img/greetor.png'
-    }
-  }
+  // {
+  //   title: 'Green Realtor revamped website',
+  //   excerpt: 'Green Realtor\'s revamped website helps clients know more about the services and offerings of Green Realtor. It focuses on providing a user-friendly interface and better property showcasing.',
+  //   coverImage: '/images/img/greetor.png',
+  //   date: '2023-10-05T00:00:00.000Z',  // Q4 of 2023
+  //   link: 'https://green-realtors.strettch.com/',
+  //   ogImage: {
+  //     url: '/images/img/greetor.png'
+  //   }
+  // }
 ];
